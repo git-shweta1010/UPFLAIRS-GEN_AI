@@ -1,6 +1,6 @@
 # 🚀 Generative AI – My Learning Journey & Projects  
 
-This repository contains my **45-day industrial training work** completed at **Upflairs Pvt Ltd**.  
+This repository contains my **60-day industrial training work** completed at **Upflairs Pvt Ltd**.  
 The training focused on **Generative AI, Deep Learning, NLP, and Computer Vision**, where I gained hands-on exposure through **industry-oriented projects**.  
 
 ---
